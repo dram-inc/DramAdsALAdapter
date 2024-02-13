@@ -1,0 +1,30 @@
+{
+  "name": "DramAdsALAdapter",
+  "version": "0.1.0",
+  "summary": "A short description of DramAdsALAdapter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DramAds/DramAdsALAdapter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DramAds": "khoren@dram.studio"
+  },
+  "source": {
+    "git": "https://github.com/DramAds/DramAdsALAdapter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "DramAdsALAdapter/Classes/**/*",
+  "dependencies": {
+    "DramAds": [
+      "~> 0.2.1"
+    ],
+    "AppLovinSDK": [
+      "~> 12.1.0"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - DramAds (0.2.1)
+  - DramAdsALAdapter (0.1.0):
+    - DramAds (~> 0.2.1)
+
+DEPENDENCIES:
+  - DramAdsALAdapter (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - DramAds
+
+EXTERNAL SOURCES:
+  DramAdsALAdapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DramAds: 4c355dbbdcf28ecb3063cbb318ad577becb58136
+  DramAdsALAdapter: 7e594c30006db0383f2b701dae84bc0a96c89994
+
+PODFILE CHECKSUM: a2e8e5f07741d1ec3f121369004025e3a5bc3efe
+
+COCOAPODS: 1.14.3

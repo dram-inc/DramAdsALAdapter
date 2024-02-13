@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '13.0'
+
+target 'DramAdsALAdapter_Example' do
+  pod 'DramAdsALAdapter', :path => '../'
+
+
+end

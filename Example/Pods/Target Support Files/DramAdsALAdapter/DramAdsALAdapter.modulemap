@@ -1,0 +1,6 @@
+framework module DramAdsALAdapter {
+  umbrella header "DramAdsALAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}

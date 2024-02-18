@@ -6,9 +6,9 @@
 //
 
 import UIKit
-import DramAds
+//import DramAds
 import AppLovinSDK
 
-class DMALAdapter: NSObject {
+class DMALAdapter: ALMediationAdapter {
 
 }

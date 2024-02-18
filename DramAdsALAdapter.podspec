@@ -43,7 +43,7 @@ TODO: Add long description of the pod here.
   s.static_framework = true
   
     s.dependency 'DramAds', '~> 0.2.1'
-    s.dependency 'AppLovinSDK'
+    s.dependency 'AppLovinSDK', '~> 12.1.0'
    
   
   

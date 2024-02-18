@@ -1,6 +1,8 @@
 PODS:
+  - AppLovinSDK (12.1.0)
   - DramAds (0.2.1)
   - DramAdsALAdapter (0.1.0):
+    - AppLovinSDK
     - DramAds (~> 0.2.1)
 
 DEPENDENCIES:
@@ -8,6 +10,7 @@ DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
+    - AppLovinSDK
     - DramAds
 
 EXTERNAL SOURCES:
@@ -15,8 +18,9 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
+  AppLovinSDK: 179d509c258e01a3a77eb8416f0ba843a12ed322
   DramAds: 4c355dbbdcf28ecb3063cbb318ad577becb58136
-  DramAdsALAdapter: 7e594c30006db0383f2b701dae84bc0a96c89994
+  DramAdsALAdapter: b5965f291f9529701838871432315c0c8e44bd3f
 
 PODFILE CHECKSUM: a2e8e5f07741d1ec3f121369004025e3a5bc3efe
 

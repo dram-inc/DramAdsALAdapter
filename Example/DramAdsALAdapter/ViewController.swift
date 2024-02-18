@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-//        TestFile.print4("hello")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
